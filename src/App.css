@@ -1,5 +1,13 @@
 .App {
+  display: flex;
   text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  justify-content: center;
+}
+.chart {
+  margin: 50px auto;
+  /* max-width: 720px; */
+  min-width: 500px;
 }
 
 .App-logo {
